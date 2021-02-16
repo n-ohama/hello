@@ -4,10 +4,10 @@ import "../styles/index.css"
 
 const Layout = ({ children }) => {
   return (
-    <>
+    <div className="layout">
       <Header />
-      <main className="layout">{children}</main>
-    </>
+      <main>{children}</main>
+    </div>
   )
 }
 
