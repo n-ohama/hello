@@ -1,0 +1,12 @@
+.layout {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 0 1rem;
+}
+.layout a {
+  color: rgb(0,0,238);
+}
+.header {
+  position: relative;
+  left: 9rem;
+}
