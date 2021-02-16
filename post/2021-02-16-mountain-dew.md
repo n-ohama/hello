@@ -5,4 +5,4 @@ title: Mountain dew
 ---
 皆さんマウンテンデューはお好きですか。とてもおいしいですよね。マウンテンデューはなんだかんだ微炭酸っぽいですよね。高校生のときから飲んでいるのですが、止められないです。よろしいですかね？マウンテンデューについての記事なのですが、まったく名に書けばいいか思い当たらないです。とりあえず、みなさんもマウンテンデューをいっぱい飲んで、元気になりましょう。
 
-![mountaindew](assets/mountain.png "mountaindew")
+![mountaindew](/assets/mountain.png "mountaindew")
